@@ -1,0 +1,17 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "e".(ßÌîª
+P
+java:S1854	"5Remove this useless assignment to local variable "b".(öÉÁ‹şÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "b".(ˆ€ÔÚ
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ˆ€ÔÚ
+<
+java:S1481"&Remove this unused "b" local variable.(ˆ€ÔÚ
+7
+java:S2129"!Remove this "Integer" constructor(ƒÏüœ
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ƒÏüœ
+<
+java:S1481"&Remove this unused "e" local variable.(ßÌîª

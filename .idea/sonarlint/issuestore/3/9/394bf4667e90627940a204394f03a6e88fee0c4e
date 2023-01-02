@@ -1,0 +1,57 @@
+
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(àƒõÍúÿÿÿÿ
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(ğçñ“şÿÿÿÿ
+`	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(àƒõÍúÿÿÿÿ
+[	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(ãÛøû
+`	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(àƒõÍúÿÿÿÿ
+`	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(ğ¿Ùûÿÿÿÿ
+`	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(àƒõÍúÿÿÿÿ
+Z	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(¡¹¡
+\	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(Ò©ïç
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(¯„šüÿÿÿÿ
+\	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(Òø§ê
+\	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(Ò©ïç
+a	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(¯„šüÿÿÿÿ
+\	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(åÿßÓ
+a	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(°—á‘ÿÿÿÿÿ
+a	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(ÁÉ¦´şÿÿÿÿ
+\	java:S112Ü"FDefine and throw a dedicated exception instead of using a generic one.(åŸÚĞ
+\	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(èŸÏ—
+\	java:S112ì"FDefine and throw a dedicated exception instead of using a generic one.(²ïİ¾
+a	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(Ê«ÜŒùÿÿÿÿ
+z
+java:S1192:"_Define a constant instead of duplicating this literal "No student exist with given ID" 4 times.(àƒõÍúÿÿÿÿ
+a
+java:S1192ö"JDefine a constant instead of duplicating this literal "Hyppotise" 3 times.(Æö¢ë
+d
+java:S1192õ"HDefine a constant instead of duplicating this literal "Wizardy" 3 times.(ìÜÛÍúÿÿÿÿ
+‹
+java:S1319
+"pThe type of "studentsDatabase" should be an interface such as "List" rather than the implementation "ArrayList".(ÃÓàˆùÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(°©¿¯
+‹
+java:S1319"pThe type of "studentsDatabase" should be an interface such as "List" rather than the implementation "ArrayList".(íÓ“Šùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá
+H
+java:S1659‡",Declare "courseEnrolled" on a separate line.(Ìƒ—ûÿÿÿÿ
+H
+java:S1659¥",Declare "courseEnrolled" on a separate line.(Ìƒ—ûÿÿÿÿ
+7
+java:S3626Æ"Remove this redundant jump.(œœâ¥ûÿÿÿÿ
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(¨‚¥Öùÿÿÿÿ
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(üº§øÿÿÿÿ
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(š¶—í
+T	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ì˜Ôåÿÿÿÿÿ
+T	java:S106Õ"9Replace this use of System.out or System.err by a logger.(Ç­¸ûÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(×¾“×üÿÿÿÿ
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(à°Ç±øÿÿÿÿ
+Q	java:S125÷"<This block of commented-out lines of code should be removed.(·“…]
+O	java:S106ù"9Replace this use of System.out or System.err by a logger.(ê ‚â
+W	java:S125ş"<This block of commented-out lines of code should be removed.(°ÿà¦ùÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ûéÀûÿÿÿÿ
+o
+java:S1602†"SRemove useless curly braces around statement and then remove useless return keyword(ûœÌşüÿÿÿÿ
+V
+java:S4034":Replace this negation and "anyMatch()" with "noneMatch()".(æå¸ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ûéÀûÿÿÿÿ

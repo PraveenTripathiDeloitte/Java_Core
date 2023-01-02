@@ -1,0 +1,9 @@
+
+\
+java:S1854
+"ARemove this useless assignment to local variable "stringBuilder".(€È¿¾øÿÿÿÿ
+M
+java:S1481
+"2Remove this unused "stringBuilder" local variable.(€È¿¾øÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ø”®ü
+N	java:S106."9Replace this use of System.out or System.err by a logger.(“—ôø
