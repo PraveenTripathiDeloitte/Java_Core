@@ -1,4 +1,4 @@
-package multithreading.synchronization;
+package multithreading.synchronization.block;
 
 public class ThreadClass extends Thread {
 
