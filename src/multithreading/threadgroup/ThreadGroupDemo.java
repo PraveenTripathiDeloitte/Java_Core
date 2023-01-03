@@ -1,6 +1,10 @@
 package multithreading.threadgroup;
 
 public class ThreadGroupDemo {
+    /*
+    System is the parent thread-group of all the thread groups
+    which are either created by user or provided by JDK
+     */
     public static void main(String[] args) {
         System.out.println(Thread.currentThread().getThreadGroup().getName());
         System.out.println(Thread.currentThread().getThreadGroup().getParent().getName());
